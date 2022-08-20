@@ -1,0 +1,5 @@
+{
+  "project_name": "Example script",
+  "project_slug": "{{ cookiecutter.project_name | slugify }}",
+  "python_version": "3.10"
+}
